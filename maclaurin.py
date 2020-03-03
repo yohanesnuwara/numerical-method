@@ -1,5 +1,3 @@
-#soal 2
-
 import numpy as np
 
 x = 2
