@@ -1,5 +1,3 @@
-#soal no 4
-
 import numpy as np
 
 # input fungsi ODE yang diinginkan
